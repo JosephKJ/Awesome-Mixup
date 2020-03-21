@@ -1,5 +1,5 @@
 # Awesome-Mixup
-A repository to host recent papers on ManiFold Mixup
+A repository to host recent papers on Manifold Mixup
 
 
 1. Mixup: https://arxiv.org/abs/1710.09412
